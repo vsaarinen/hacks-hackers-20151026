@@ -39,4 +39,4 @@ Repeat the last three steps for the remaining nine versions. The version commit 
 9. Scrolling through time: `df2446ddb3bb9c6cd099d0ade94dbcd76956b039`
 10. Country-specific hover data: `294d3966c0db2ff76852fb5f5563531c4662f52d`
 
-Once all of these have been set up, start the HTTP server in each repo (in order) with `gulp`. Then open index.html from this repo.
+Once all of these have been set up, start the HTTP server in each repo with `gulp`. If you start the server in the order above, the ports will be the correct ones (3000, 3002...) by default. Then open `index.html` from this repo.

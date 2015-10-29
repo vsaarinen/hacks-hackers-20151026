@@ -1,6 +1,6 @@
 # Presentation: Building the flow of refugees to Europe visualization
 
-A presentation about building a [visualization](http://lucify.com/the-flow-towards-europe/) about the European refugee crisis. Built using [Reveal.js](https://github.com/hakimel/reveal.js/).
+A presentation about building a [visualization](http://lucify.com/the-flow-towards-europe/) about the European refugee crisis. The presentation illustrates the choices and dead ends encountered along the way. Built using [Reveal.js](https://github.com/hakimel/reveal.js/).
 
 ### Authors
 

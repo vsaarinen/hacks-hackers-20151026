@@ -13,7 +13,7 @@ A presentation about building a [visualization](http://lucify.com/the-flow-towar
 
 ### Setup
 
-Get the [lucify-refugees code](https://gitlab.com/lucify/lucify-refugees) running on your local machine. Make ten snapshots of the code at different commits (hashes below) and serve these ten different versions locally on ports 3000, 3002, ...3018. I recommend using Git's new [worktree](https://git-scm.com/docs/git-worktree) command for this:
+Get the [lucify-refugees code](https://github.com/lucified/lucify-refugees) running on your local machine. Make ten snapshots of the code at different commits (hashes below) and serve these ten different versions locally on ports 3000, 3002, ...3018. I recommend using Git's new [worktree](https://git-scm.com/docs/git-worktree) command for this:
 
 ```bash
 cd <path-to-lucify-refugees>
